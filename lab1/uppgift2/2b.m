@@ -1,5 +1,3 @@
-
-
 clear all
 clf
 x = 0:0.001:10;
