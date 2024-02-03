@@ -1,3 +1,4 @@
+%startvärden för det minsta är 5.3e-13 och största 7.148. 
 disp('Newton-Raphsons metod for the largest')
 clear all
 x = 7.148;  %Vår grova approximation
