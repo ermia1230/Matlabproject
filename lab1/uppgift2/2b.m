@@ -1,4 +1,4 @@
-% Script for identifying roots of the function using fzero
+
 
 clear all
 clf
